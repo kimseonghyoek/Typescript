@@ -1,0 +1,13 @@
+{
+    "comilerOptions": {
+        "lib": ["es2015"],
+        "module": "commonjs",
+        "outDir": "dist",
+        "sourseMap": true,
+        "strict": true,
+        "target": "es2015"
+    },
+    "include": [
+        "src"
+    ]
+}
