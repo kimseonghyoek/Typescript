@@ -1,9 +1,9 @@
 {
-    "comilerOptions": {
+    "compilerOptions": {
         "lib": ["es2015"],
         "module": "commonjs",
         "outDir": "dist",
-        "sourseMap": true,
+        "sourceMap": true,
         "strict": true,
         "target": "es2015"
     },
